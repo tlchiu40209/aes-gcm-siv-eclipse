@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,jdk.accessibility,jdk.attach,jdk.compiler,jdk.httpserver,jdk.jartool,jdk.javadoc,jdk.jconsole,jdk.jdi,jdk.management,jdk.packager,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,oracle.desktop,oracle.net,jdk.dynalink,jdk.incubator.httpclient,jdk.jfr,jdk.jshell,jdk.jsobject,jdk.management.cmm,jdk.management.jfr,jdk.management.resource,jdk.net,jdk.packager.services,jdk.scripting.nashorn,jdk.xml.dom,java.xml.ws.annotation,java.xml.ws,java.xml,java.xml.bind,java.xml.crypto,java.se.ee"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jmh-core-1.20.jar"/>
+	<classpathentry kind="lib" path="lib/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jmh-generator-annprocess-1.20.jar"/>
+	<classpathentry kind="lib" path="lib/jmh-core-benchmarks-1.20.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-api-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-engine-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-params-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/quicktheories-0.25.jar"/>
+	<classpathentry kind="lib" path="lib/assertj-core-3.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/opentest4j-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
